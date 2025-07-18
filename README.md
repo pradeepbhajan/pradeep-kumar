@@ -1,2 +1,0 @@
-# pradeep-kumar
-frontend
